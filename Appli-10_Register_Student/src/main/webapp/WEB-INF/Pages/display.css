@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+body{
+	display:inline;
+	background-color: white;
+	justify-content: center;
+	align-items: center;
+}
+.stu-head{
+	text-align: center;
+}
+.head-last{
+	
+}
